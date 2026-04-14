@@ -4,8 +4,8 @@ const ASSETS = [
   './', 
   './index.html', 
   './transport_manifest.json',
-  './icons/icon2.png',
-  './icons/icon2.png'
+  './icons/icon.png',
+  './icons/icon.png'
 ];
 
 self.addEventListener('install', e => {
