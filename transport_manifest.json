@@ -2,22 +2,16 @@
   "name": "운송비 계산기",
   "short_name": "운송비",
   "description": "성화상토 포당 운송비 단가 계산기",
-  "start_url": "/transport_calulator/index.html",
-  "scope": "/transport_calulator/",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#2196f3",
+  "theme_color": "#2d5a3d",
   "orientation": "portrait",
   "icons": [
     {
       "src": "./icon.png",
-      "sizes": "192x192 512x512 1024x1024",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "./icon.png",
-      "sizes": "192x192 512x512 1024x1024",
+      "sizes": "192x192 512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
