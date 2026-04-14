@@ -5,8 +5,8 @@
   "start_url": "/transport_calulator/index.html",
   "scope": "/transport_calulator/",
   "display": "standalone",
-  "background_color": "#f7f6f2",
-  "theme_color": "#2d5a3d",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
   "orientation": "portrait",
   "icons": [
     {
